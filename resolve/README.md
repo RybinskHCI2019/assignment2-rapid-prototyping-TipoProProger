@@ -30,3 +30,5 @@
 ![Alt text](https://github.com/RybinskHCI2019/assignment2-rapid-prototyping-TipoProProger/blob/master/Pict6.jpg "Story1")
 2. Пользователь Боб взял подработку. Теперь ему необходимо каждый 3 день приходить в офис и работать. Согласно договору, ему необходимо так работать в течение 3 месяцев. Он заносит эту информацию в приложение. Каждый раз после доп. работы он отмечает выполнение события в приложении и это приносит ему моральное удовлетворение
 ![Alt text](https://github.com/RybinskHCI2019/assignment2-rapid-prototyping-TipoProProger/blob/master/Pict7.jpg "Story2")
+
+Автор: Смирнов Михаил ИПБ-16
